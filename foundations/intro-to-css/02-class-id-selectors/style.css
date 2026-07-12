@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+#main-blue{
+    color: blue;
+    font-size: 35px;
+}
+
+#big-odd{
+    font-size: 25px;
+}
+
+.odd{
+    background-color: pink;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#green-bold{
+    background-color: rgb(133, 252, 133);
+    font-weight: 900;
+}
